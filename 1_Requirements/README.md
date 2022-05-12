@@ -17,24 +17,24 @@
  * And also seeing the seep of the wiper system in the car
  * Now this two features are explained in these project
 
----
+
 ## 5W's & 1H and S.W.O.T analysis is in the below table 
 
 # | 5W's & 1H | 
 *__What__   
--- wiper control system (WCS) 
+- wiper control system (WCS) 
 
 *__Where__ 
---Inside and out side the car 
+- Inside and out side the car 
 
 *__When__   
---When the weather condition is bad (like in rain and snow) the wiper is activate and clean the car window 
+- When the weather condition is bad (like in rain and snow) the wiper is activate and clean the car window 
 
 *__Who__  
---Who is driving or controlling the car 
+- Who is driving or controlling the car 
 
 *__How__   
---By using STM like by multiple pushes on a button
+- By using STM like by multiple pushes on a button
 
 # | S.W.O.T ANALYSIS | 
 
