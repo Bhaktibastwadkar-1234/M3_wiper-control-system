@@ -1,6 +1,6 @@
 
 # Wiper Control system
-this project is mainly concentrate about the working wiper control system
+this project is mainly concentrate about the working wiper control system.
 
 # Wiper
 INTRODUCTION 
@@ -35,15 +35,15 @@ So even if you hardly use them, wiper blades still need to be replaced at regula
 
 ## Dis Advantages
 
-Squeaking or chattering sounds when in use
+Squeaking or chattering sounds when in use.
 
-Skipping motion in the wiper’s movement
+Skipping motion in the wiper’s movement.
 
-Streaking, smears or gaps of moisture on your windshield
+Streaking, smears or gaps of moisture on your windshield.
 
-Reduced driving visibility, even with the wipers in motion
+Reduced driving visibility, even with the wipers in motion.
 
-Cracks, tear or missing pieces of the blade
+Cracks, tear or missing pieces of the blade.
 
 
 ## CONCLUSION:
@@ -53,4 +53,4 @@ was well functionally according the water condition from the outside of a car. T
 design of the automatic wiper system for the future research in this field. For the future improvement, it is
 recommended the system to have literature review on the material been used as the wiper, because the material used is
 still has a problem in the procure issues especially for the hot and climate country. Other suggestion for designing
-automatic push up wiper for future research and improvement is about the design stand for the wiper
+automatic push up wiper for future research and improvement is about the design stand for the wiper.
